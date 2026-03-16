@@ -1,4 +1,4 @@
-# international_anotated_image_scraper
+# image-dataset-tool
 The anotated photo server project done on FEL ČVUT during the summer. All sources, my own scraper files and one big connected database maker. 
 
 1. The database scheme map here https://drawsql.app/teams/johannes-kepler-grammar-school/diagrams/missing-persons-database
